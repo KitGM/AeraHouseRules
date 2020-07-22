@@ -3,14 +3,14 @@
 ### All house rules are subject to change.
 
 ## Table of Contents
-[Allowed Content](https://github.com/KitGM/AeraHouseRules#allowed-content)
+[Allowed Content](https://github.com/KitGM/AeraHouseRules#allowed-content)  
 [Character Creation](https://github.com/KitGM/AeraHouseRules#character-creation)  
-[Criticals](https://github.com/KitGM/AeraHouseRules#criticals)
-[Flanking](https://github.com/KitGM/AeraHouseRules#flanking)
-[Feat Changes](https://github.com/KitGM/AeraHouseRules#feat-changes)
-[Initiative](https://github.com/KitGM/AeraHouseRules#initiative)
-[Spell Changes](https://github.com/KitGM/AeraHouseRules#spell-changes)
-[Class Changes](https://github.com/KitGM/AeraHouseRules#class-changes)
+[Criticals](https://github.com/KitGM/AeraHouseRules#criticals)  
+[Flanking](https://github.com/KitGM/AeraHouseRules#flanking)  
+[Feat Changes](https://github.com/KitGM/AeraHouseRules#feat-changes)  
+[Initiative](https://github.com/KitGM/AeraHouseRules#initiative)  
+[Spell Changes](https://github.com/KitGM/AeraHouseRules#spell-changes)  
+[Class Changes](https://github.com/KitGM/AeraHouseRules#class-changes)  
 
 ## Allowed Content
 
