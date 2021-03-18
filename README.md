@@ -92,6 +92,7 @@ A creature's initiative bonus is their Dexterity modifier plus their Wisdom modi
     
     * Sorcerer's no longer prepare metamagic permanently. Instead they prepare metamagic at the end of a long rest.
     * Sorcerer subclasses gain Sorcerous Origin spells. [This document](https://homebrewery.naturalcrit.com/share/HyBT1deBmN) details the spells each subclass gets.
+    * Upon finishing a short rest you can regain a number of Sorcery Points equal to half your Sorcerer level (rounded up). Once you use this feature you cannot use it again until you finish a long rest.
 
 * <b>Monk</b>
 
