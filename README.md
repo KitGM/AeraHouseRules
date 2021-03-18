@@ -11,6 +11,7 @@
 [Initiative](https://github.com/KitGM/AeraHouseRules#initiative)  
 [Spell Changes](https://github.com/KitGM/AeraHouseRules#spell-changes)  
 [Class Changes](https://github.com/KitGM/AeraHouseRules#class-changes)  
+[Subclass Changes](https://github.com/KitGM/AeraHouseRules#subclass-changes)  
 
 ## Allowed Content
 
