@@ -75,6 +75,7 @@ A creature's initiative bonus is their Dexterity modifier plus their Wisdom modi
 ## Spell Changes
 
 * <b>Barkskin</b>: No longer requires concentration.
+* <b>Goodberry</b>: Now has a duration of 1 minute. The effects of the spell are only applied after the duration has expired.
 * <b>Mage Armor</b>: Calculation Changed to: 10 + Spellcasting Modifier + Dexterity Modifier
 * <b>Mordenkainen's Sword</b>: Now has extra attacks based on the spell slot level used to cast it. Two attacks with a 7th level slot, three attack with an 8th level slot, four attacks with a 9th level slot. You must now use an action to move the sword and attack instead of a bonus action.
 * <b>Shield</b>: Upcasting Shield to higher spell slot thresholds increases the bonus AC you get. At 3rd level: +6 AC, 5th level: +7 AC, 7th level: +8 AC, 9th level: +10 AC
@@ -82,4 +83,8 @@ A creature's initiative bonus is their Dexterity modifier plus their Wisdom modi
 * 
 ## Class Changes
 
+* <b>Sorcerer</b>
+    
+    * Sorcerer's no longer prepare metamagic permanently. Instead they prepare metamagic at the end of a long rest.
+    * Sorcerer subclasses gain Sorcerous Origin spells. [This document](https://homebrewery.naturalcrit.com/share/HyBT1deBmN) details the spells each subclass gets.
 
