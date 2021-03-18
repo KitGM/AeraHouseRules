@@ -68,6 +68,8 @@ Flanking is used in this ruleset, however instead of advantage you gain a +2 to 
 
 ## Feat Changes
 
+* <b>Weapon Master</b>: This feat now grants a Fighting Style from the Fighter class.
+
 ## Initiative
 
 A creature's initiative bonus is their Dexterity modifier plus their Wisdom modifier.
@@ -80,11 +82,19 @@ A creature's initiative bonus is their Dexterity modifier plus their Wisdom modi
 * <b>Mordenkainen's Sword</b>: Now has extra attacks based on the spell slot level used to cast it. Two attacks with a 7th level slot, three attack with an 8th level slot, four attacks with a 9th level slot. You must now use an action to move the sword and attack instead of a bonus action.
 * <b>Shield</b>: Upcasting Shield to higher spell slot thresholds increases the bonus AC you get. At 3rd level: +6 AC, 5th level: +7 AC, 7th level: +8 AC, 9th level: +10 AC
 * <b>Stoneskin</b>: No longer requires concentration.
-* 
+
 ## Class Changes
 
 * <b>Sorcerer</b>
     
     * Sorcerer's no longer prepare metamagic permanently. Instead they prepare metamagic at the end of a long rest.
     * Sorcerer subclasses gain Sorcerous Origin spells. [This document](https://homebrewery.naturalcrit.com/share/HyBT1deBmN) details the spells each subclass gets.
+
+* <b>Monk</b>
+
+    * Monk Level 20 Capstone: If you have less than 4 ki points you can use an action to regain ki points equal to your Wisdom modifier. Once you use this feature you cannot use it again until you complete a short rest.
+
+## Subclass Changes
+
+* <b>Arcane Archer</b>: Arcane Archer is now a Ranger subclass instead of a Fighter subclass.
 
