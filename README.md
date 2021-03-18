@@ -31,7 +31,7 @@ Character creation will generally follow the normal 5e rules, however will some 
 
 If there is no background that fits your character a custom one can be made, but must be approved by me. A custom background would have the following features:
 
-❶ *Two skill Proficiencies*   
+❶ *Two skill Proficiencies & One Tool Proficiency*   
 ❷ *One language*  
 ❸ *Background specific equipment*   
 ❹ *Background Feature*  
