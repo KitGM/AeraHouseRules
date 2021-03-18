@@ -74,6 +74,12 @@ A creature's initiative bonus is their Dexterity modifier plus their Wisdom modi
 
 ## Spell Changes
 
+* <b>Barkskin</b>: No longer requires concentration.
+* <b>Mage Armor</b>: Calculation Changed to: 10 + Spellcasting Modifier + Dexterity Modifier
+* <b>Mordenkainen's Sword</b>: Now has extra attacks based on the spell slot level used to cast it. Two attacks with a 7th level slot, three attack with an 8th level slot, four attacks with a 9th level slot. You must now use an action to move the sword and attack instead of a bonus action.
+* <b>Shield</b>: Upcasting Shield to higher spell slot thresholds increases the bonus AC you get. At 3rd level: +6 AC, 5th level: +7 AC, 7th level: +8 AC, 9th level: +10 AC
+* <b>Stoneskin</b>: No longer requires concentration.
+* 
 ## Class Changes
 
 
