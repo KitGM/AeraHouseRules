@@ -64,9 +64,7 @@ When you score a Critical on an attack roll, you can roll double the amount of d
 
 ## Flanking
 
-When a creature and at least one of its allies are on opposite sides of an enemies space (within 5 ft.), the attacking creature gains a +2 to the attack roll. To gain this benefit you must be directly across from the ally. To verify this, a straight line must be created that goes directly through the attacking creature, the enemy, and the ally. If a straight line cannot be created, but both the attacking creature and the ally are within 5 ft. of the enemy, the attacking creature instead gains a +1 to the attack roll.
-
-*Note - Flanking bonuses do not stack, regardless of how many allies are within 5 ft. of the enemy.*
+Flanking is used in this ruleset, however instead of advantage you gain a +2 to hit instead.
 
 ## Feat Changes
 
