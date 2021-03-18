@@ -22,7 +22,6 @@ check with me first just in case. That being said, here is a list of content tha
 
 *[Class] Mystic*
 
-
 ## Character Creation
 
 Character creation will generally follow the normal 5e rules, however will some exceptions:
@@ -69,6 +68,10 @@ Flanking is used in this ruleset, however instead of advantage you gain a +2 to 
 ## Feat Changes
 
 * <b>Weapon Master</b>: This feat now grants a Fighting Style from the Fighter class.
+
+## Gameplay Changes
+
+  * <b>New Action</b>: Sprint - Taking the Sprint action will allow you to move much greater distances in a short amount of time, however you forfeit safety when doing so. Upon taking the Sprint action you multiply your walking speed by four until the end of the current turn. Additionally, until the end of the current turn enemies have advantage on opportunity attacks against you, you have disadvantage on Perception checks, and if at any point you fall prone during your movement you lose the rest of your movement speed for the turn.
 
 ## Initiative
 
