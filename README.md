@@ -94,6 +94,11 @@ A creature's initiative bonus is their Dexterity modifier plus their Wisdom modi
 * <b>Monk</b>
 
     * Monk Level 20 Capstone: If you have less than 4 ki points you can use an action to regain ki points equal to your Wisdom modifier. Once you use this feature you cannot use it again until you complete a short rest.
+    * Martial Arts Enhancement:
+      * Simple Weapons with the Thrown property count as Monk Weapons for you.
+      * When you make an attack with a weapon that has the Thrown property, you can spend 1 ki point to double the short and long ranges of the attack.
+    * Flurry of Blows Enhancement:
+      * When you use Flurry of Blows, you can forego making unarmed strikes to instead make two thrown weapon attacks. You can draw these thrown weapons as part of the attacks.
 
 ## Subclass Changes
 
