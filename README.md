@@ -60,7 +60,7 @@ When you create a character that is above a certain level threshold you will get
   17-20  | 20,000gp + 1d20x1000 | 3 common items, 2 uncommon items, 1 rare item 
 
 ## Criticals
-When you score a Critical on an attack roll, you can roll double the amount of dice that you would normally roll for that attack. Example: 2d6 becomes 4d6.
+When you score a Critical on an attack roll, you can roll double the amount of dice that you would normally roll for that attack. Example: 2d6 becomes 4d6. This is the base 5e ruling.
 
 ## Flanking
 
