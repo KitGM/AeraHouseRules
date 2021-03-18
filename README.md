@@ -43,7 +43,7 @@ If you want to modify an already existing background that can also be done, just
 
 <b>Stat Rolls</b>
 
-When rolling for stats, use the method: 4d6 drop lowest 1 for each stat. If the total is less than 70 you can reroll.
+When rolling for stats, use the method: 4d6 keep highest 3 for each stat. If the total is less than 70 you can reroll.
 
 Roll20 Command: */roll [[4d6kh3]] + [[4d6kh3]] + [[4d6kh3]] + [[4d6kh3]] + [[4d6kh3]] + [[4d6kh3]]*
 
