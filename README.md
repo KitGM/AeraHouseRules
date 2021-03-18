@@ -98,7 +98,7 @@ A creature's initiative bonus is their Dexterity modifier plus their Wisdom modi
       * Simple Weapons with the Thrown property count as Monk Weapons for you.
       * When you make an attack with a weapon that has the Thrown property, you can spend 1 ki point to double the short and long ranges of the attack.
     * Flurry of Blows Enhancement:
-      * When you use Flurry of Blows, you can forego making unarmed strikes to instead make two thrown weapon attacks. You can draw these thrown weapons as part of the attacks.
+      * When you use Flurry of Blows, you can forego making unarmed strikes to instead make two thrown weapon attacks. You can draw these thrown weapons as part of the attacks. The thrown weapons must be Monk Weapons for you in order for this to apply.
 
 ## Subclass Changes
 
