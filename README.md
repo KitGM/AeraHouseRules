@@ -77,6 +77,21 @@ Flanking is used in this ruleset, however instead of advantage you gain a +2 to 
 
 A creature's initiative bonus is their Dexterity modifier plus their Wisdom modifier.
 
+## Downtime
+
+Ability  | Points Required | Description
+---|-----------|--------------
+  Simple Weapon Proficiency  | 60 | None 
+  Martial Weapon Proficiency  | 180  | None 
+  Tool Proficiency  | 300 | None 
+  Language  | 450  | None 
+  Skill Proficiency  | 600 | None
+  Skill/Tool Expertise  | 900 | Prerequisite: Proficiency in Skill/Tool
+  Armor Proficiency  | 900 | Prerequisites: Proficiency in the previous tier of armor
+  Feat  | 1800 | None
+  Other Class Feature  | Varies | DM Dependent
+
+
 ## Spell Changes
 
 * <b>Barkskin</b>: No longer requires concentration.
