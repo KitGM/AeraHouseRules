@@ -22,6 +22,11 @@ check with me first just in case. That being said, here is a list of content tha
 
 *[Class] Mystic*
 
+<b>Allows Unofficial Sources</b>
+
+Bloodhunter (Matther Mercer)
+[Four Elements Monk Remastered](https://img.4plebs.org/boards/tg/image/1433/19/1433195829577.pdf)
+
 ## Character Creation
 
 Character creation will generally follow the normal 5e rules, however will some exceptions:
