@@ -30,7 +30,7 @@ Bloodhunter (Matther Mercer)
 
 ## Character Creation
 
-Character creation will generally follow the normal 5e rules, however will some exceptions:
+Character creation will generally follow the normal 5e rules, however with some exceptions:
 
 <b>Background:</b>
 
