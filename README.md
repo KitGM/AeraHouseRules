@@ -22,7 +22,7 @@ check with me first just in case. That being said, here is a list of content tha
 
 *[Class] Mystic*
 
-<b>Allows Unofficial Sources</b>
+<b>Allowed Unofficial Sources</b>
 
 Bloodhunter (Matther Mercer) 
 
