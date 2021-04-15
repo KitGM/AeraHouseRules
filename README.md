@@ -63,6 +63,12 @@ When you create a character that is above a certain level threshold you will get
   9-12  | 2,500gp + 1d10x125 | 2 common items, 1 uncommon item 
   13-16  | 5,000gp + 1d10x250  | 3 common items, 2 uncommon items 
   17-20  | 20,000gp + 1d20x1000 | 3 common items, 2 uncommon items, 1 rare item 
+  
+<b>Karma</b>:
+You can take anti-feats that give a certain amount of karma points. These karma points can be spent to obtain feats. You can only take up to 3 points worth of karma. A full-feat
+costs 2 karma, half-feats cost 1 karma.
+
+[Anti-Feats](https://www.gmbinder.com/share/-MYHw0FbZ6W9xv-jdq_1)
 
 ## Criticals
 When you score a Critical on an attack roll, you can roll double the amount of dice that you would normally roll for that attack. Example: 2d6 becomes 4d6. This is the base 5e ruling.
