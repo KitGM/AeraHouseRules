@@ -16,7 +16,7 @@
 ## Allowed Content
 
 All of the official WotC content will be allowed, but for playtest material and other sources I will judge on a case-by-case basis - which includes Unearthed Arcana since it is playtest material. Most of the content from Unearthed Arcana will likely be allowed, but if you want to use something from Unearthed Arcana, or any unoffical source,
-check with me first just in case. That being said, here is a list of content that I for sure do not allow as of right now:
+check with me first just in case. That being said, here is a list of content that I for sure do not allow as of right now as well as a list of content that I do allow from unofficial sources:
 
 <b>Banned Content</b>
 
