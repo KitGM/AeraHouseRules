@@ -10,7 +10,7 @@
 [Feat Changes](https://github.com/KitGM/AeraHouseRules#feat-changes)  
 [General Changes](https://github.com/KitGM/AeraHouseRules#general-changes)  
 [Initiative](https://github.com/KitGM/AeraHouseRules#initiative)  
-[Level Ups](https://github.com/KitGM/AeraHouseRules#level-ups) 
+[Level Ups](https://github.com/KitGM/AeraHouseRules#level-ups)  
 [Spell Changes](https://github.com/KitGM/AeraHouseRules#spell-changes)  
 [Class Changes](https://github.com/KitGM/AeraHouseRules#class-changes)  
 [Subclass Changes](https://github.com/KitGM/AeraHouseRules#subclass-changes)  
