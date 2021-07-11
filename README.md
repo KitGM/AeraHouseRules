@@ -8,7 +8,9 @@
 [Criticals](https://github.com/KitGM/AeraHouseRules#criticals)  
 [Flanking](https://github.com/KitGM/AeraHouseRules#flanking)  
 [Feat Changes](https://github.com/KitGM/AeraHouseRules#feat-changes)  
-[Initiative](https://github.com/KitGM/AeraHouseRules#initiative)  
+[General Changes]((https://github.com/KitGM/AeraHouseRules#general-changes)
+[Initiative](https://github.com/KitGM/AeraHouseRules#initiative)
+[Level Ups]((https://github.com/KitGM/AeraHouseRules#level-ups))
 [Spell Changes](https://github.com/KitGM/AeraHouseRules#spell-changes)  
 [Class Changes](https://github.com/KitGM/AeraHouseRules#class-changes)  
 [Subclass Changes](https://github.com/KitGM/AeraHouseRules#subclass-changes)  
@@ -84,13 +86,19 @@ Flanking is used in this ruleset, however instead of advantage you gain a +2 to 
 
 * <b>Weapon Master</b>: This feat now grants a Fighting Style from the Fighter class.
 
-## Gameplay Changes
+## General Changes
 
   * <b>New Action</b>: Sprint - Taking the Sprint action will allow you to move much greater distances in a short amount of time, however you forfeit safety when doing so. Upon taking the Sprint action you multiply your walking speed by four until the end of the current turn. Additionally, until the end of the current turn enemies have advantage on opportunity attacks against you, you have disadvantage on Perception checks, and if at any point you fall prone during your movement you lose the rest of your movement speed for the turn. Trying to change direction in any way while Sprinting will require an Acrobatics check to see if you remain on your feet. 
+
+ * <b>Potion Change</b>: You can use a bonus action to use a healing potion on yourself, but using one on a creature other than yourself requires an action.
 
 ## Initiative
 
 A creature's initiative bonus is their Dexterity modifier plus their Wisdom modifier.
+
+## Level Ups
+
+- When you roll hit dice to level up, you can reroll on a 1.
 
 
 ## Spell Changes
