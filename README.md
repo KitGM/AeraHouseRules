@@ -8,7 +8,7 @@
 [Criticals](https://github.com/KitGM/AeraHouseRules#criticals)  
 [Flanking](https://github.com/KitGM/AeraHouseRules#flanking)  
 [Feat Changes](https://github.com/KitGM/AeraHouseRules#feat-changes)  
-[General Changes]((https://github.com/KitGM/AeraHouseRules#general-changes)
+[General Changes](https://github.com/KitGM/AeraHouseRules#general-changes)  
 [Initiative](https://github.com/KitGM/AeraHouseRules#initiative)
 [Level Ups]((https://github.com/KitGM/AeraHouseRules#level-ups))
 [Spell Changes](https://github.com/KitGM/AeraHouseRules#spell-changes)  
