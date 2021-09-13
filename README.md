@@ -22,7 +22,7 @@ check with me first just in case. That being said, here is a list of content tha
 
 <b>Banned Content</b>
 
-*[Class] Mystic*
+*[Class] Mystic*  
 *[Race] Variant Human*
 
 <b>Other Allowed Sources/Content</b>
